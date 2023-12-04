@@ -4,7 +4,7 @@
 
 **🌐 Front-End Developer** : For the past 3 years, I've been crafting stunning front-end projects using 🌟 HTML5, 🎨 CSS, ✨ JavaScript, 🔷 TypeScript, and ⚛️ React. My world of code is always evolving with new additions! 🛠️ 
 
- **🐍 Learning Journey** : I'm currently on an adventure exploring the vast realms of Python and 📱 React Native for mobile app development. This journey is filled with both challenges and victories!
+ **🐍 Learning Journey** : I'm currently on an adventure exploring the vast realms of Python and C. This journey is filled with both challenges and victories!
 
 **🎮 Hobbies** : When I'm not coding, you can find me immersed in the world of anime, strategizing over a game of chess, or losing track of time in my extensive 🕹️ Steam game library. Gaming is not just a hobby for me; it's my ultimate form of relaxation and my go-to antidepressant.
 
